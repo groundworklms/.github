@@ -10,6 +10,8 @@ Every claim cites the manual — or the system refuses. Answers are verified on-
 source, the delivery loop runs with the network pulled, and a human ratifies everything before it
 reaches a learner.
 
+**[▶ Live app](https://schoolcircle.tannerwhite.net)**
+
 </div>
 
 ---
@@ -26,7 +28,8 @@ people are tested and evaluated on — that is unacceptable. Groundwork is built
 
 ## The platform
 
-**SchoolCircle** is the learning management app instructors and students use.
+**[SchoolCircle](../../SchoolCircleLMS)** is the learning management app instructors and students
+use, and it is running at **[schoolcircle.tannerwhite.net](https://schoolcircle.tannerwhite.net)**.
 **Anchor** is the grounding engine that every answer flows through. The rest of the repos are
 single-purpose services the app composes into two closed loops:
 
